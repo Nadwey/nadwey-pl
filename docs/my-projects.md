@@ -36,5 +36,5 @@ One of my best projects, working hard on this one.
 ## Some polish projects
 
 -   [cebulionhosting.pl](https://cebulionhosting.pl) Bardzo śmieszna i oryginalna strona o tematyce hostingowej
--   [nadwey.pl/dobrego-popoludnia](https://nadwey.pl/dobrego-popoludnia) Kolekcja zdjęć, które wysyła twoja babcia do przyjaciółek.
+-   [dobrego-popoludnia.nadwey.pl](https://dobrego-popoludnia.nadwey.pl) Kolekcja zdjęć, które wysyła twoja babcia do przyjaciółek.
 -   [nadwey.pl/reklamy-rise-of-kingdoms](https://nadwey.pl/reklamy-rise-of-kingdoms) Kolekcja reklam Rise of Kingdoms.
