@@ -28,6 +28,7 @@ const config = {
                     showReadingTime: true,
                     postsPerPage: 1,
                 },
+                docs: false
             }),
         ],
     ],
@@ -42,12 +43,12 @@ const config = {
                 },
                 items: [
                     { to: "/blog", label: "Blog", position: "left" },
-                    {
-                        type: "doc",
-                        position: "left",
-                        docId: "my-projects",
-                        label: "My projects",
-                    },
+                    // {
+                    //     type: "doc",
+                    //     position: "left",
+                    //     docId: "my-projects",
+                    //     label: "My projects",
+                    // },
                 ],
             },
             prism: {
